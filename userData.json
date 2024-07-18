@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "name": "Vinod Mehta",
+        "imageName": "vinod",
+        "emergencyContacts": [{"id": 3, "relation": "Son"}, {"id": 1, "relation": "Wife"}, {"id": 2, "relation": "Daughter"}],
+        "contact": {"mobile": "+91 98201 92186", "email": "vmehta01@hotmail.com"},
+        "allergy": [{"allergen": "Pollen", "medication": "Allegra"}]
+    },
+    {
+        "id": 1,
+        "name": "Aparna Mehta",
+        "imageName": "aparna",
+        "emergencyContacts": [{"id": 0, "relation": "Son"}, {"id": 3, "relation": "Wife"}, {"id": 2, "relation": "Daughter"}],
+        "contact": {"mobile": "+91 98201 92187", "email": "aparnavmehta@hotmail.com"},
+        "allergy": [{"allergen": "Pollen", "medication": "Allegra"}, {"allergen": "Mushroom", "medication": "Allegra"}]
+    },
+    {
+        "id": 2,
+        "name": "Ami Mehta",
+        "imageName": "default",
+        "emergencyContacts": [{"id": 1, "relation": "Son"}, {"id": 3, "relation": "Wife"}, {"id": 0, "relation": "Daughter"}],
+        "contact": {"mobile": "+91 98201 92186", "email": "amivmehta01@gmail.com"},
+        "allergy": [{"allergen": "Pollen", "medication": "Allegra"}]
+    },
+    {
+        "id": 3,
+        "name": "Dev Mehta",
+        "imageName": "dev",
+        "emergencyContacts": [{"id": 1, "relation": "Son"}, {"id": 0, "relation": "Wife"}, {"id": 2, "relation": "Daughter"}],
+        "contact": {"mobile": "+1 (413) 275-6737", "email": "dev8mehta@gmail.com"},
+        "allergy": [{"allergen": "Pollen", "medication": "Allegra"}]
+    }
+]
